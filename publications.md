@@ -53,7 +53,7 @@ Environ Microbiol. 2016. PMID: 26941045.
 Julkowska MM, Klei K, **Fokkens L**, Haring MA, Schranz ME, Testerink C.  
 Natural variation in rosette size under salt stress conditions corresponds to
 developmental differences between _Arabidopsis_ accessions and allelic variation in
-the _LRR-KISS_ gene. 
+the _LRR-KISS_ gene.   
 J Exp Bot. 2016. PMID: 26873976; PMCID: PMC4809279.
   
 ____
@@ -81,7 +81,7 @@ Cell. 2010. PMID: 21145464; PMCID: PMC3073509.
 Enrichment of homologs in insignificant BLAST hits by co-complex network alignment.  
 BMC Bioinformatics. 2010. PMID: 20152020; PMCID: PMC2836305.
  
-___
+____
 ### 2009
 ____  
   
@@ -90,7 +90,7 @@ Cohesive versus flexible evolution of functional modules
 in eukaryotes.  
 PLoS Comput Biol. 2009. PMID: 19180181; PMCID: PMC2615111.
 
-__
+____
 ### 2006
 ____  
   
